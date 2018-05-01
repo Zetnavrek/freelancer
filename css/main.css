@@ -328,7 +328,7 @@ footer{
 .footer-col{
   height: 180px;
   width: 28%;
-  border: 1px solid white;
+  /*border: 1px solid white;*/
   float:left;
   position:relative;
   left:8%;
